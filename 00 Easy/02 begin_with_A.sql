@@ -1,0 +1,1 @@
+SELECT* FROM Table_name WHERE EmpName like 'A%'
